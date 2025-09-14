@@ -1,6 +1,0 @@
-name: Greetings
-
-on: [katie]
-
-  greeting: hi
-    
